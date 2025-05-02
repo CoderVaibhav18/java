@@ -22,7 +22,7 @@ public class sequentialSort {
             }
         }
 
-        System.out.println("Sorted Array is: ");
+        System.out.println("Sorted array is: ");
         for (int i = 0; i < n; i++) {
             System.out.print(arr[i] + " ");
         }
